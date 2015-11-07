@@ -1,9 +1,9 @@
 /*
 This is another irc BOT in C
-to run follow this example; "gcc -o rexbot rexbot.c; ./rexBot ip port nick chan mestre"
+to run follow this example; "gcc -o rexbot rexbot.c; ./rexBot ip port nick_of_bot chan bot_owner_nick_name"
 
    Author: Antonio Costa ,aka Cooler_
-   contact: c00f3r[at]gmail[dot]com
+   contact: coolerlair[at]gmail[dot]com
    Co-author: Victor Ramos Mello aka m0nad
    contact: m0nad[at]email[dot]com
 
